@@ -1,0 +1,20 @@
+{
+  "name": "polymer",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zilongshanren/learn-nodejs",
+  "authors": [
+    "zilongshanren <guanghui8827@126.com>"
+  ],
+  "description": "bower",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0"
+  }
+}
