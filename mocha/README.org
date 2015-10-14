@@ -1,0 +1,16 @@
+** ReadMe 
+At first we should define a parse function which could be used 
+#+BEGIN_SRC  js  
+  module.paths.push(process.env.PWD + "/lib"); 
+    var tags = require('tags');
+    var results = tags.parse(['--depth=4']);
+
+    console.log(results);
+#+END_SRC
+
+
+
+
+
+
+
